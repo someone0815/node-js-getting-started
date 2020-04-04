@@ -18,7 +18,12 @@
       <q-img src="statics/chalk.jpg" class="header-image absolute-top" />
     </q-header>
 
-    <q-drawer v-model="leftDrawerOpen" show-if-above :width="250" :breakpoint="600">
+    <q-drawer
+      v-model="leftDrawerOpen"
+      show-if-above
+      :width="250"
+      :breakpoint="600"
+    >
       <q-scroll-area
         style="
           height: calc(100% - 192px);

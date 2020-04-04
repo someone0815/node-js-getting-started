@@ -1,7 +1,6 @@
 <template>
   <q-page class="q-pa-lg">
     <h5 class="q-mt-none">Help</h5>
-    <h5 class="q-item__section">22</h5>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -34,10 +33,18 @@
       quaerat.
     </p>
     <ul class="list">
-      <li class="item">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, illum!</li>
-      <li class="item">Ab, ipsam ratione! Est recusandae, itaque delectus eum cumque velit.</li>
-      <li class="item">Sint quae nulla possimus alias laborum laboriosam sequi dicta vitae.</li>
-      <li class="item">Ratione eius iure excepturi, aperiam tempore id reiciendis porro sit!</li>
+      <li class="item">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, illum!
+      </li>
+      <li class="item">
+        Ab, ipsam ratione! Est recusandae, itaque delectus eum cumque velit.
+      </li>
+      <li class="item">
+        Sint quae nulla possimus alias laborum laboriosam sequi dicta vitae.
+      </li>
+      <li class="item">
+        Ratione eius iure excepturi, aperiam tempore id reiciendis porro sit!
+      </li>
 
       <h1 class="bg-blue-grey-3">hi</h1>
     </ul>
